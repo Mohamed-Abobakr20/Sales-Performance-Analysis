@@ -20,4 +20,13 @@ The company seeks to better understand its overall sales performance across thre
   - Profit = Total_Sales - Total_Cost
  
 ## Exploratory Data Analysis (EDA)
-- 
+- Total revenue: $ 1.93M
+- Highest-spending customer group: Age 26–35
+- Top-selling product category: Toys
+- Most profitable region: East
+
+## Visualizations
+The analysis was split across 3 main dashboards in Power BI:
+- 1. Sales Overview Dashboard
+- 2. Product & Customer Insights Dashboard
+- 3. Sales Team Performance Dashboard
