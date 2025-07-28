@@ -27,6 +27,6 @@ The company seeks to better understand its overall sales performance across thre
 
 ## Visualizations
 The analysis was split across 3 main dashboards in Power BI:
-- 1. Sales Overview Dashboard
-- 2. Product & Customer Insights Dashboard
-- 3. Sales Team Performance Dashboard
+- Sales Overview Dashboard
+- Product & Customer Insights Dashboard
+- Sales Team Performance Dashboard
