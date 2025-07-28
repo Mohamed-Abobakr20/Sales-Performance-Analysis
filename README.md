@@ -14,10 +14,13 @@ The company seeks to better understand its overall sales performance across thre
 - Verified correct data types
 - Removed duplicates in customer, product, and salesperson records
 - Standardized region, gender, and age group values
-- Created key calculated columns in Power BI:
-  - Total_Sales = Quantity × Unit Price × (1 - Discount)
-  - Total_Cost = Quantity × Cost Price (via RELATED)
-  - Profit = Total_Sales - Total_Cost
+- Created key calculated columns and measures in Power BI:
+  - Total_Sales
+  - Total Revenue
+  - Total_Cost
+  - Profit
+  - Sales by Salesperson
+  - % Target Achieved	  
  
 ## Exploratory Data Analysis (EDA)
 - Total revenue: $ 1.93M
